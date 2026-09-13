@@ -28,6 +28,10 @@ If you like or are using this project please give it a star. Thanks!
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/thecomputerman?theme=dark)](https://leetcode.com/thecomputerman)
+
+
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=rohitbalage&theme=dracula)
 
 ## links:
 
@@ -37,6 +41,9 @@ https://github.com/anmol098/waka-readme-stats
 
 https://github.com/Platane/snk
 
+https://github.com/kyechan99/capsule-render
+
+https://github.com/Ashutosh00710/github-readme-activity-graph
 
 https://github.com/DenverCoder1/github-readme-streak-stats
 
