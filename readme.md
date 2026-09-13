@@ -21,6 +21,27 @@ A [guard clause](https://deviq.com/design-patterns/guard-clause) is a software p
 
 If you like or are using this project please give it a star. Thanks!
 
+##  Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&commits_year=2020)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
+
+## links:
+
+https://github.com/lowlighter/metrics
+
+https://github.com/anmol098/waka-readme-stats
+
+https://github.com/Platane/snk
+
+
+https://github.com/DenverCoder1/github-readme-streak-stats
+
+https://github.com/anuraghazra/github-readme-stats
+
 ## Usage
 
 ```c#
